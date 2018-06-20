@@ -8,7 +8,7 @@ The Admin console component which aggregates the administrative functions requir
 We decided to do a heavy lifting to the existing Alpha Version adding User Interface (UI) and core technology enhancements based on feedback from usage of Version Alpha
 
 ## Functional Principles
-Managing platform upgrades and notifications about upgrades to the platform users Provide access integration to :
+Managing platform upgrades and notifications about upgrades to the platform users Provide access integration to:
 
   - The monitoring capabilities to the underlying IaaS service components
   - The capacity and resource management capabilities for the   infrastructure services
